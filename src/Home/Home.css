@@ -1,0 +1,54 @@
+.box{
+    padding: 30px;
+}
+.containerFluid{
+    padding-top: 30px;
+    border: 1px solid rgb(202, 202, 202);
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.test-head{
+    padding-top: 30px;
+}
+
+.text-muted{
+    width: 0px;
+    padding-left: 5px;
+}
+.post{
+    
+    padding-left: 18px;
+}
+.col-md-3{
+    text-align: center;
+    border-right: 1px solid rgb(202, 202, 202);
+}
+.col-md-5{
+    border-right: 1px solid rgb(202, 202, 202);
+}
+.web{
+    padding-bottom: 40px;
+}
+.here1{
+   padding-right: 15px;
+}
+.here2{
+    margin-right: 15px;
+    margin-left: 38px;
+}
+.here3{
+    margin-right: 15px;
+    margin-left: 30px;
+}
+.roger{
+    padding-bottom: 15px;
+}
+.avatar{
+    border-radius: 45px;
+}
+.form-control{
+    border-radius: 45px !important;
+}
