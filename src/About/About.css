@@ -1,0 +1,35 @@
+#root{
+    background-color: rgb(250, 252, 252) !important;
+  }
+  .abt-img{
+    width: 100%;
+    height: 100vh;
+    background-position: 100%;
+  }
+  .aboutt{
+     
+     
+      font-size: 20px;
+      line-height: 30px;
+      text-align: justify;
+     
+      color: black;
+    }
+    .abt{
+      color:orangered;
+      font-family: inherit;
+    }
+    .abtimg{
+      margin-top: 40px;
+    }
+    .k-name{
+      font-size: 20px;
+      font-weight: 500;
+    }
+  
+  
+  @media (max-width: 767px){
+  .Front{
+      width: 100%;
+  }
+  }
