@@ -8,13 +8,11 @@ class Home extends Component {
             <div className="pcr">
                 <div className="pcr1">
                     <Header  name="Home"/>
-
                     <div className="container declare" >
                         <div className="row">
                             <div className="vertical">
                                 <h2 className="love">I Love To Design</h2>
                                 <h1 className="headline">
-
                                     <span className="cd-words-wrapper" >
                                         <ReactTypingEffect
                                             text={["Giribabu", "A Web Developer", "A Designer"]}

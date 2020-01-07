@@ -4,9 +4,8 @@
     width :100%;
     background-size:cover;
     background-position: 100%;
-   
+    overflow: hidden;
     background-repeat: no-repeat;
-   
   }
   .pcr1{
     background-color: black;
@@ -18,7 +17,6 @@
   }
   .declare{
     margin-top: 170px ;
-    
     color: white;
   }
   .active{
@@ -34,12 +32,10 @@
     color :white ;
   }
   .love{
-    
     font-family: italic;
     font-size: 50px;
     color:white;
     margin-left: 35px;
-    
     margin-bottom: 20px;
     padding-bottom: 5px;
   }
